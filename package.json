@@ -84,7 +84,8 @@
     "through2": "^3.0.0"
   },
   "dependencies": {
-    "@babel/runtime": "^7.5.1"
+    "@babel/runtime": "^7.5.1",
+    "yarn": "^1.22.10"
   },
   "resolutions": {
     "kind-of": ">=6.0.3",
